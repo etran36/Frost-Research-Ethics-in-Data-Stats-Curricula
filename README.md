@@ -24,7 +24,7 @@ Ideas for Materials
     - Eviction Data
       * The Anti-Eviction Mapping Project (<http://www.antievictionmappingproject.net/narratives.html>)
     - Physical Data Visualization
-     * Physical Data Visualization (<http://dataphys.org/list/>)
+      * Physical Data Visualization (<http://dataphys.org/list/>)
       * Opportunities and Challenges for Data Physicalization (<https://hal.inria.fr/hal-01120152/document>)
   - Cal Poly Data: Applying the Tools
     * COVID-19 Data at Cal Poly (<https://coronavirus.calpoly.edu/>)
