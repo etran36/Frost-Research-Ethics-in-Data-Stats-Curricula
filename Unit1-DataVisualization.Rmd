@@ -1,0 +1,173 @@
+---
+title: 'Unit 1: Data Visualization'
+output:
+  rmdformats::downcute:
+    highlight: kate
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+library(rmdformats)
+
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=FALSE,
+	             cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=75)
+```
+
+# Unit Format
+
+This Unit contains 4 lesson modules: Introduction, Think Outside the Box (Parts 1 and 2), and Applying the Tools. You will learn the history of data visualization, how to imagine new ways of the genre, and apply your new skills to your own life.
+
+# Lesson 1: Introduction
+
+## Background
+
+What do you think of when you hear the words **"graph"** and **"data visualization"**?
+
+In the field of statistics, communication is everything. Communicating the results we achieve won't mean much if we cannot explain to others whatever it is we found!
+
+Communication can take many forms: reports, presentation slides, talks, you name it!
+
+But today, we will focus on one form of statistical communication: **Data Visualization**
+
+
+## A Short History of Data Visualization
+
+Here's a link: <https://towardsdatascience.com/a-short-history-of-data-visualisation-de2f81ed0b23>.
+
+While reading the above article, walk through some questions below.
+
+1. What does the article describe as some of the earliest types of data visualization? What other possible types of early data visualization can you come up with?
+
+2. Talk about 3 of the early pioneers of data visualization that are mentioned in this article and what set their styles apart.
+
+3. What innovation led to the rise of spreadsheets and more automated editing, formatting, and updating of tables?
+
+
+Include something here about W.E.B. Du Bois' data visualization.
+
+
+While we have learned that visualizations can be very useful, there is also the bad side.
+
+
+## Bad Visualization
+
+You have already learned about some of the features that make data visualization "bad": the diagrams are unclear, the graphs are too cluttered, the formatting and colors are off. In this section, we will explore these areas more and examine **why** certain stylistic choices aren't ideal.
+
+Here's a link: <https://www.data-to-viz.com/caveat/counter_intuitive.html>.
+
+While reading the above article, walk through some questions below.
+
+1. Question 1
+
+2. Question 2
+
+Here's a link: <https://businessesgrow.com/2020/08/05/data-is-dangerous/>.
+
+For "homework," please read the above article and make notes on what the author regards as the downsides and dangers of incorporating emotion in data visualization.
+
+> KEY LESSON TAKEAWAYS: Data visualization as we know it today is not a new phenomenon; it is the culmination and continuation of years of work and artistry. We have also learned that while data visualization can be a very powerful tool, there are many instances of misuse that we should be wary of.
+
+***
+
+# Lesson 2: Think Outside the Box (Part 1)
+
+What did you learn from the article for "homework"?
+
+## The Power of Emotion: Gun Deaths Data
+
+Talk about why incorporating emotion into data visualization/storytelling is not a bad thing. How can we flip the narrative here?
+
+Here's a link: <https://www.wired.com/2013/02/periscopic-gun-statistic-visualization/>.
+
+Here's another link: <https://vizworld.com/2013/09/gun-deaths-infographics-emotional-storytelling/>.
+
+While reading the above article, walk through some questions below.
+
+1. Question 1
+
+2. Question 2
+
+3. Question 3
+
+## The Power of Emotion: Evictions Data
+
+In the previous data, you have seen an example of how bringing emotion to the graphic can bring out strong feelings and thoughts. Here is another example which, while seemingly messier, still accomplishes similar goals. Think about both the similarities and differences between the previous data visualization and this one.
+
+Here's a link: <http://www.antievictionmappingproject.net/narratives.html>.
+
+While reading the above article, walk through some questions below.
+
+1. Question 1
+
+2. Question 2
+
+3. Question 3
+
+Here's a link: <https://www.microsoft.com/en-us/research/uploads/prod/2019/08/emotional.pdf>.
+
+Here's another link: <https://www.gapminder.org/dollar-street>.
+
+For "homework," please read the above article in the first link and write a 200-word summary. With the second link, explore the data however you like and come to the next class meeting, ready to tell the story of any one family you "meet."
+
+> KEY LESSON TAKEAWAYS: We have been told that data is neutral, and that emotion has no place in a scientific field like statistics and data visualization. However, there is power in emotion and our ability to tell stories and communicate data with that emotion. We also see the power in learning the stories behind our data and the emotions that come from that.
+
+***
+
+# Lesson 3: Think Outside the Box (Part 2)
+
+## Physical Data Visualization
+
+Let's revisit a question from the beginning of this unit: What do you think of when you hear the words **"graph"** and **"data visualization"**?
+
+We have learned a bit more about the possibilities for data visualization and expanding the traditional definitions and formats to include emotion. Can we push the boundaries even further?
+
+Here's a link: <http://dataphys.org/list/>.
+
+While reading the above article, walk through some questions below.
+
+1. Choose 3 visualizations from this list that appealed to you most. Why did they appeal to you? What sets these visualizations apart?
+
+2. Question 2
+
+3. Question 3
+
+Here's a link: <https://hal.inria.fr/hal-01120152/document>.
+
+For "homework," please read the above article and make notes.
+
+> KEY LESSON TAKEAWAYS: Data visualization seems to be in the domain of programming, coding, and online visuals these days; but, we can expand that defintion further. Physical data visualizations have been around since some of the earliest days of human civilization up until the current day. They provide another dimension and way we can explore data.
+
+***
+
+# Lesson 4: Applying the Tools
+
+## Cal Poly Data
+
+You've made it to the end of this unit. One more day!
+
+Today, we will be looking at applying your newfound skills and knowledge. After all, how else will you "learn by doing"?
+
+Cal Poly Coronavirus Data:
+
+1. Here's a link: <https://coronavirus.calpoly.edu/>.
+
+2. Here's another link: <https://coronavirus.calpoly.edu/dashboard>.
+
+General Cal Poly Data:
+
+1. Here's a link: <https://ir.calpoly.edu/tableau-graphs-and-tables>.
+
+2. Here's another link: <https://content-calpoly-edu.s3.amazonaws.com/ir/1/images/CDS_2019-2020%20Final%203.pdf>.
+
+
+## Data Visualization in Your Life
+
+Weekend assignment: _________
