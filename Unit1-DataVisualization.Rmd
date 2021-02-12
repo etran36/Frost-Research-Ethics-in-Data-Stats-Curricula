@@ -25,6 +25,15 @@ opts_knit$set(width=75)
 
 This Unit contains 4 lesson modules: Introduction, Think Outside the Box (Parts 1 and 2), and Applying the Tools. You will learn the history of data visualization, how to imagine new ways of the genre, and apply your new skills to your own life.
 
+**Unit Learning Objectives:**
+
+Students in this unit will:
+
+1. Learn and understand the often untaught background and history of data visualization.
+2. Analyze both the historical and contemporary components that make up "bad" data visualization.
+3. Examine the impact of emotion in visualization and how it affects the user.
+4. Create data visualizations using data relevant to Cal Poly and their own life.
+
 # Lesson 1: Introduction
 
 ## Background
@@ -37,6 +46,10 @@ Communication can take many forms: reports, presentation slides, talks, you name
 
 But today, we will focus on one form of statistical communication: **Data Visualization**
 
+![](/Users/etran 1/Desktop/college/3rdyear/Research/pic_dataviz.jpg)
+
+Do your data visualizations have to look like this? Maybe not now, but you'll get there! 
+[Image Credit](https://pixy.org/2927080/)
 
 ## A Short History of Data Visualization
 
@@ -52,6 +65,11 @@ While reading the above article, walk through some questions below.
 
 
 Include something here about W.E.B. Du Bois' data visualization.
+
+![](/Users/etran 1/Desktop/college/3rdyear/Research/pic_webdubois.jpeg)
+
+American sociologist, historian, civil rights activist, and ...... data visualization practitioner?
+[Image Credit](https://en.wikipedia.org/wiki/W._E._B._Du_Bois)
 
 
 While we have learned that visualizations can be very useful, there is also the bad side.
@@ -81,6 +99,8 @@ For "homework," please read the above article and make notes on what the author 
 
 What did you learn from the article for "homework"?
 
+Please discuss with your group some of your key takeaways from the article!
+
 ## The Power of Emotion: Gun Deaths Data
 
 Talk about why incorporating emotion into data visualization/storytelling is not a bad thing. How can we flip the narrative here?
@@ -101,6 +121,11 @@ While reading the above article, walk through some questions below.
 
 In the previous data, you have seen an example of how bringing emotion to the graphic can bring out strong feelings and thoughts. Here is another example which, while seemingly messier, still accomplishes similar goals. Think about both the similarities and differences between the previous data visualization and this one.
 
+![](/Users/etran 1/Desktop/college/3rdyear/Research/pic_insideoutemotions.jpg)
+
+The types of emotions your data visualization can bring out!
+[Image Credit](https://inside.akronchildrens.org/2015/06/24/doctors-share-thoughts-on-the-science-of-inside-out/)
+
 Here's a link: <http://www.antievictionmappingproject.net/narratives.html>.
 
 While reading the above article, walk through some questions below.
@@ -116,6 +141,10 @@ Here's a link: <https://www.microsoft.com/en-us/research/uploads/prod/2019/08/em
 Here's another link: <https://www.gapminder.org/dollar-street>.
 
 For "homework," please read the above article in the first link and write a 200-word summary. With the second link, explore the data however you like and come to the next class meeting, ready to tell the story of any one family you "meet."
+
+**THIS ASSIGNMENT CAN BE CHANGED. THE ALTERNATIVE IS BELOW**
+
+For "homework," work with your partner/group to brainstorm and search for other "emotional" datasets. You need not create any initial data viz (although highly encouraged!), but please come ready to present on your dataset and any ideas you have on data vizzes you might be able to create from there.
 
 > KEY LESSON TAKEAWAYS: We have been told that data is neutral, and that emotion has no place in a scientific field like statistics and data visualization. However, there is power in emotion and our ability to tell stories and communicate data with that emotion. We also see the power in learning the stories behind our data and the emotions that come from that.
 
@@ -139,6 +168,11 @@ While reading the above article, walk through some questions below.
 
 3. Question 3
 
+![](/Users/etran 1/Desktop/college/3rdyear/Research/pic_phys1.png) ![](/Users/etran 1/Desktop/college/3rdyear/Research/pic_phys2.jpeg)
+
+Some examples you'll see of physical data visualization
+[Image 1 Credit](https://aviz.fr/phys), [Image 2 Credit](http://dataphys.org/list/data-strings-physical-parallel-coordinates/)
+
 Here's a link: <https://hal.inria.fr/hal-01120152/document>.
 
 For "homework," please read the above article and make notes.
@@ -154,6 +188,11 @@ For "homework," please read the above article and make notes.
 You've made it to the end of this unit. One more day!
 
 Today, we will be looking at applying your newfound skills and knowledge. After all, how else will you "learn by doing"?
+
+![](/Users/etran 1/Desktop/college/3rdyear/Research/pic_calpoly.jpg)
+
+Where Learn by Doing happens 
+[Image Credit](https://keyt.com/news/education/2020/08/26/cal-poly-announces-fall-plans-for-a-safe-reopening/)
 
 Cal Poly Coronavirus Data:
 
