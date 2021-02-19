@@ -46,7 +46,7 @@ Communication can take many forms: reports, presentation slides, talks, you name
 
 But today, we will focus on one form of statistical communication: **Data Visualization**
 
-![](/Users/etran 1/Desktop/college/3rdyear/Research/pic_dataviz.jpg)
+![](/Users/etran 1/Documents/Documents - MacBook Air/GitHub/NBA-Fan-Support/Frost-Research-Ethics-in-Data-Stats-Curricula/pic_dataviz.jpg)
 
 Do your data visualizations have to look like this? Maybe not now, but you'll get there! 
 [Image Credit](https://pixy.org/2927080/)
@@ -64,12 +64,13 @@ While reading the above article, walk through some questions below.
 3. What innovation led to the rise of spreadsheets and more automated editing, formatting, and updating of tables?
 
 
-Include something here about W.E.B. Du Bois' data visualization.
+While the field of data visualization now may seem very technical and built for the modern era, the above examples show that that is not necessarily the case. In fact, historical figures you wouldn't associate with statistics/data tried their hand (very successfully!) with infographics and visualization. 
 
-![](/Users/etran 1/Desktop/college/3rdyear/Research/pic_webdubois.jpeg)
+![](/Users/etran 1/Documents/Documents - MacBook Air/GitHub/NBA-Fan-Support/Frost-Research-Ethics-in-Data-Stats-Curricula/pic_webdubois.jpeg)
 
-American sociologist, historian, civil rights activist, and ...... data visualization practitioner?
-[Image Credit](https://en.wikipedia.org/wiki/W._E._B._Du_Bois)
+W. E. B. Du Bois, the American sociologist, historian, civil rights activist, and ...... data visualization practitioner? [Image Credit](https://en.wikipedia.org/wiki/W._E._B._Du_Bois)
+
+Here's a link: <https://www.smithsonianmag.com/history/first-time-together-and-color-book-displays-web-du-bois-visionary-infographics-180970826/>. Take a look at some examples of Du Bois' work and pick your favorite infographic of his. Why does it appeal to you? What are some things you notice?
 
 
 While we have learned that visualizations can be very useful, there is also the bad side.
@@ -81,15 +82,17 @@ You have already learned about some of the features that make data visualization
 
 Here's a link: <https://www.data-to-viz.com/caveat/counter_intuitive.html>.
 
-While reading the above article, walk through some questions below.
+Here's a video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x-rDVXVwW9s" frameborder="0"allowfullscreen></iframe>
 
-1. Question 1
+While reading the above article and watching the video, walk through the question below.
 
-2. Question 2
+1. The article and video list examples of ways a data visualization can become counter-intuitive and/or misleading. Can you come up with other ways in which data visualization can be misleading? Work with your partner to brainstorm ideas and look for an example of a bad infographic that exemplifies your chosen aspect.
+
+
+As data visualization continues to grow as a field, experts set rules for what makes a visualization good or bad, useful or misleading, etc. One contentious aspect of the field is how to incorporate emotion in graphs and visualization work. For "homework," please read the linked article here and make notes on what the author regards as the downsides and dangers of incorporating emotion in data visualization.
 
 Here's a link: <https://businessesgrow.com/2020/08/05/data-is-dangerous/>.
-
-For "homework," please read the above article and make notes on what the author regards as the downsides and dangers of incorporating emotion in data visualization.
 
 > KEY LESSON TAKEAWAYS: Data visualization as we know it today is not a new phenomenon; it is the culmination and continuation of years of work and artistry. We have also learned that while data visualization can be a very powerful tool, there are many instances of misuse that we should be wary of.
 
@@ -103,25 +106,29 @@ Please discuss with your group some of your key takeaways from the article!
 
 ## The Power of Emotion: Gun Deaths Data
 
-Talk about why incorporating emotion into data visualization/storytelling is not a bad thing. How can we flip the narrative here?
+Is data neutral? Can data ever truly be neutral?
+
+Emotion has long been something that is avoided in data/data visualization work because of the fear that emotion skews the audience perception of the conclusions that can be drawn from the data at hand. In other words, a data visualization should speak for itself and not attempt to influence a reader or viewer in any way.
+
+What do **you** think about this?
 
 Here's a link: <https://www.wired.com/2013/02/periscopic-gun-statistic-visualization/>.
 
 Here's another link: <https://vizworld.com/2013/09/gun-deaths-infographics-emotional-storytelling/>.
 
-While reading the above article, walk through some questions below.
+While reading the above articles, walk through some questions below.
 
-1. Question 1
+1. You have learned previously that the more "cluttered" a data visualization is, the more confusing and unclear it is, and therefore the worse overall it is. In what ways do the things you learn from these articles challenge that?
 
-2. Question 2
+2. In what ways are data visualizations related to storytelling? Why would these connections be relevant with regards to emotion?
 
-3. Question 3
+One of the most fascinating aspects of the Periscopic gun data visualization is how it shows all of the data at once while still allowing the user to examine individual points/lives that are being described. By providing context to the data, the makers of the data visualization use emotion to tell a real story that brings the whole infographic to life and makes it resonate that much more strongly.
 
 ## The Power of Emotion: Evictions Data
 
 In the previous data, you have seen an example of how bringing emotion to the graphic can bring out strong feelings and thoughts. Here is another example which, while seemingly messier, still accomplishes similar goals. Think about both the similarities and differences between the previous data visualization and this one.
 
-![](/Users/etran 1/Desktop/college/3rdyear/Research/pic_insideoutemotions.jpg)
+![](/Users/etran 1/Documents/Documents - MacBook Air/GitHub/NBA-Fan-Support/Frost-Research-Ethics-in-Data-Stats-Curricula/pic_insideoutemotions.jpg)
 
 The types of emotions your data visualization can bring out!
 [Image Credit](https://inside.akronchildrens.org/2015/06/24/doctors-share-thoughts-on-the-science-of-inside-out/)
@@ -130,17 +137,19 @@ Here's a link: <http://www.antievictionmappingproject.net/narratives.html>.
 
 While reading the above article, walk through some questions below.
 
-1. Question 1
+1. In what other ways have you learned previously might this data visualization be considered "messy" or "bad"?
 
-2. Question 2
+2. How does the Anti-Eviction Mapping Project employ other mediums in their infographic to tell their story?
 
-3. Question 3
+3. Can you count the number of evictions in this data visualization? If not, does that mean this data visualization is doing its job? Why or why not?
+
+Data visualization allows us to tell stories. Sometimes, those stories consist of numbers and numerical summaries of the data we have collected. Other times however, such as in this case, data visualization serves to prove a point by using emotion and connecting the data back to its real life context (by including interviews in this case).
 
 Here's a link: <https://www.microsoft.com/en-us/research/uploads/prod/2019/08/emotional.pdf>.
 
 Here's another link: <https://www.gapminder.org/dollar-street>.
 
-For "homework," please read the above article in the first link and write a 200-word summary. With the second link, explore the data however you like and come to the next class meeting, ready to tell the story of any one family you "meet."
+For "homework," please read the above article in the first link and write a 200-word summary of the material. With the second link, explore the data however you like and come to the next class meeting, ready to tell the story of any one family you "meet."
 
 **THIS ASSIGNMENT CAN BE CHANGED. THE ALTERNATIVE IS BELOW**
 
@@ -164,11 +173,10 @@ While reading the above article, walk through some questions below.
 
 1. Choose 3 visualizations from this list that appealed to you most. Why did they appeal to you? What sets these visualizations apart?
 
-2. Question 2
+2. What does it mean for a data visualization to be interactive? Find an example in the list of physical data visualizations of an interactive one. Explain how it is interactive and what might set it apart from other "static" visualizations.
 
-3. Question 3
 
-![](/Users/etran 1/Desktop/college/3rdyear/Research/pic_phys1.png) ![](/Users/etran 1/Desktop/college/3rdyear/Research/pic_phys2.jpeg)
+![](/Users/etran 1/Documents/Documents - MacBook Air/GitHub/NBA-Fan-Support/Frost-Research-Ethics-in-Data-Stats-Curricula/pic_phys1.png) ![](/Users/etran 1/Documents/Documents - MacBook Air/GitHub/NBA-Fan-Support/Frost-Research-Ethics-in-Data-Stats-Curricula/pic_phys2.jpeg)
 
 Some examples you'll see of physical data visualization
 [Image 1 Credit](https://aviz.fr/phys), [Image 2 Credit](http://dataphys.org/list/data-strings-physical-parallel-coordinates/)
@@ -189,7 +197,7 @@ You've made it to the end of this unit. One more day!
 
 Today, we will be looking at applying your newfound skills and knowledge. After all, how else will you "learn by doing"?
 
-![](/Users/etran 1/Desktop/college/3rdyear/Research/pic_calpoly.jpg)
+![](/Users/etran 1/Documents/Documents - MacBook Air/GitHub/NBA-Fan-Support/Frost-Research-Ethics-in-Data-Stats-Curricula/pic_calpoly.jpg)
 
 Where Learn by Doing happens 
 [Image Credit](https://keyt.com/news/education/2020/08/26/cal-poly-announces-fall-plans-for-a-safe-reopening/)
