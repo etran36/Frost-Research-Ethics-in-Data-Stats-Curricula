@@ -23,7 +23,7 @@ opts_knit$set(width=75)
 
 # Unit Format
 
-This Unit contains 4 lesson modules: Introduction, The Context of Data, Think Outside the Box, and Applying the Tools. You will learn the history of data visualization, how to imagine new ways of the genre, and apply your new skills to your own life.
+This Unit contains 4 lesson modules: Introduction, The Context of Data, Think Outside the Box, and Applying the Tools. You will learn the history of data visualization, the role of context and emotion in data visualizations, and apply your new perspectives to data relevant to you.
 
 **Unit Learning Objectives:**
 
@@ -40,44 +40,69 @@ Students in this unit will:
 
 What do you think of when you hear the words **"graph"** and **"data visualization"**?
 
-In the field of statistics, communication is everything. Communicating the results we achieve won't mean much if we cannot explain to others whatever it is we found!
+In the field of statistics, communication is everything. The results we achieve won't mean much if we cannot explain to others what we found!
 
-Communication can take many forms: reports, presentation slides, talks, you name it!
+Communication can take many forms: written reports, presentation slides, talks, you name it!
 
-But today, we will focus on one form of statistical communication: **Data Visualization**
+Today, we will focus on one form of statistical communication: **data visualization**
 
 ```{r, echo=FALSE, fig.cap="Do your data visualizations have to look like this? Maybe not now, but you'll get there! [Image Credit](https://pixy.org/2927080/)",fig.show="hold",fig.align="center"}
 knitr::include_graphics("pic_dataviz.jpg")
 ```
 
+<!-- I think we should talk about what type of visualization we want to highlight here! -->
 
 ## A Short History of Data Visualization
 
-Here's an article discussing some of the main innovations and innovators in early data visualization: <https://towardsdatascience.com/a-short-history-of-data-visualisation-de2f81ed0b23>
+Let's start by reading an article that presents some of the main innovations and innovators in early data visualization: <https://towardsdatascience.com/a-short-history-of-data-visualisation-de2f81ed0b23>
 
-While reading the article, think and write down your ideas for the following questions:
+While reading this article, think and write down your ideas for the following questions:
 
-1. What does the article describe as some of the earliest types of data visualization? What other possible types of early data visualization can you think of?
+1. What does the article describe as some of the earliest types of data visualization? 
 
-2. Who were three of the early pioneers of data visualization? What set their styles apart?
+2. The article defines the "first" visualizations as visualizations that were created by White people. Can you think of other types of early data visualizations?
 
-3. What innovation led to the rise of spreadsheets and automated editing, formatting, and updating of tables?
+3. Who were three of the early "pioneers" of data visualization? What set their styles apart?
+
+4. What did the early "pioneers" of data visualization look like? How many women were there? How many people of color? 
+
+5. What innovation led to the rise of spreadsheets and the ability to generate tables and graphics automatically? Name one cost and benefit of this invention.  
 
 ### Early Data Visualizations
 
-While the field of data visualization now may seem very technical and built for the modern era, the above examples show that that is not necessarily the case. In fact, historical figures you wouldn't associate with statistics/data tried their hand (very successfully!) with infographics and visualization. 
+While the field of data visualization now may seem very technical and built for the modern era, the above examples show that that is not necessarily the case. In fact, these early visualizations relied entirely upon the ability of the artist to convey a compelling story rather than millions of observations. There are many historical figures who you may not associate with Statistics that have successfully created compelling infographics and visualizations. 
 
-
-```{r, echo=FALSE, out.width="30%",out.height="10%",fig.cap="W. E. B. Du Bois, the American sociologist, historian, civil rights activist, and ... data visualization practitioner? [Image Credit](https://en.wikipedia.org/wiki/W._E._B._Du_Bois)",fig.show="hold",fig.align="center"}
+```{r, echo=FALSE, out.width="30%",out.height="10%",fig.cap="W. E. B. Du Bois, the American sociologist, historian, civil rights activist, and ... data visualization practitioner! [Image Credit](https://en.wikipedia.org/wiki/W._E._B._Du_Bois)",fig.show="hold",fig.align="center"}
 knitr::include_graphics(c("pic_webdubois.jpeg","web_visualization.jpg"))
 ```
 
 
-Read the article below about Du Bois' work and pick your favorite infographic of his. Why does it appeal to you? What are some things you notice?
+Read the article below about Du Bois' work and pick your favorite infographic of his. Why does it appeal to you? What story is it telling? What data visualization elements does Du Bois use to communicate this story? 
 
 <https://www.smithsonianmag.com/history/first-time-together-and-color-book-displays-web-du-bois-visionary-infographics-180970826/>
 
 While we have learned that visualizations can be informative and very useful, there is also a bad side to visualizations.
+
+## New Frontiers for Data Visualization
+
+Let's revisit a question from the beginning of this unit: What do you think of when you hear the words **"graph"** and **"data visualization"**?
+
+We have learned a bit more about the possibilities for data visualization and expanding the traditional definitions and formats to include emotion. Can we push the boundaries even further?
+
+Here's a link: <http://dataphys.org/list/>.
+
+While reading the above article, walk through some questions below.
+
+1. Choose 3 visualizations from this list that appealed to you most. Why did they appeal to you? What sets these visualizations apart?
+
+2. What does it mean for a data visualization to be interactive? Find an example in the list of physical data visualizations of an interactive one. Explain how it is interactive and what might set it apart from other "static" visualizations.
+
+```{r, echo=FALSE, fig.cap="An example you'll see of physical data visualization [Image 1 Credit](https://aviz.fr/phys)",fig.show="hold", fig.align='center'}
+knitr::include_graphics("pic_phys2.jpeg")
+```
+
+Here's a link: <https://hal.inria.fr/hal-01120152/document>.
+
 
 ## Bad Visualization
 
@@ -156,27 +181,6 @@ Knowledge is never absolute; it is always situated in a social, cultural, histor
 <!-- something like this: https://weallcount.com/2019/01/21/an-introduction-to-the-data-biography/ -->
 
 > KEY LESSON TAKEAWAYS: Numbers never speak for themselves. After all, data doesn't exist in a vaccum; it is created by many processes and therefore have an underlying context and narrative. In other words, all data you will encounter tells a story, and part of the art of data visualization is understanding that data context and telling the story. As statisticians and data scientists, part of your job as communicators (whether or not it involves a data visualization) is to always understand where your data comes from, what its context is, and how to accurately communicate those analyses.
-
-
-## (THIS WHOLE SECTION IS OLD, MIGHT DELETE) Physical Data Visualization
-
-Let's revisit a question from the beginning of this unit: What do you think of when you hear the words **"graph"** and **"data visualization"**?
-
-We have learned a bit more about the possibilities for data visualization and expanding the traditional definitions and formats to include emotion. Can we push the boundaries even further?
-
-Here's a link: <http://dataphys.org/list/>.
-
-While reading the above article, walk through some questions below.
-
-1. Choose 3 visualizations from this list that appealed to you most. Why did they appeal to you? What sets these visualizations apart?
-
-2. What does it mean for a data visualization to be interactive? Find an example in the list of physical data visualizations of an interactive one. Explain how it is interactive and what might set it apart from other "static" visualizations.
-
-```{r, echo=FALSE, fig.cap="An example you'll see of physical data visualization [Image 1 Credit](https://aviz.fr/phys)",fig.show="hold", fig.align='center'}
-knitr::include_graphics("pic_phys2.jpeg")
-```
-
-Here's a link: <https://hal.inria.fr/hal-01120152/document>.
 
 For "homework," please read the above article and make notes.
 
