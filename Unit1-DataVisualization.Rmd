@@ -112,7 +112,7 @@ Here's a link: <https://businessesgrow.com/2020/08/05/data-is-dangerous/>.
 
 <!-- Have a discussion here about the previous article that was homework (article about emotions) -->
 
-Final sentence from the article: "Let the PR peeps do the "spinning" and data do the talking."
+Here's the final sentence from the article: "Let the PR peeps do the "spinning" and data do the talking."
 
 Do you think this is a fair assessment?
 
@@ -153,6 +153,7 @@ Knowledge is never absolute; it is always situated in a social, cultural, histor
 <!-- How can we make this section more interactive for the students? -->
 <!-- need to find something for homework for this section, make it connect to the emotion section -->
 <!-- maybe a homework assignment could be to create a data biography/user guide??? -->
+<!-- something like this: https://weallcount.com/2019/01/21/an-introduction-to-the-data-biography/ -->
 
 > KEY LESSON TAKEAWAYS: Numbers never speak for themselves. After all, data doesn't exist in a vaccum; it is created by many processes and therefore have an underlying context and narrative. In other words, all data you will encounter tells a story, and part of the art of data visualization is understanding that data context and telling the story. As statisticians and data scientists, part of your job as communicators (whether or not it involves a data visualization) is to always understand where your data comes from, what its context is, and how to accurately communicate those analyses.
 
@@ -200,7 +201,7 @@ Data visualization is a traditionally "neutral emotional" field where viewers ar
 
 Is visual minimalism really more neutral? Could incorporating emotion into visualization make it better, more interesting, and more valuable for learning and communication?
 
--> Lead into standpoint theory
+-> Lead into standpoint theory: we've already established context is important, now draw the connection between context and emotion
 
 
 ```{r, echo=FALSE, fig.cap="The types of emotions your data visualization can bring out! [Image Credit](https://inside.akronchildrens.org/2015/06/24/doctors-share-thoughts-on-the-science-of-inside-out/)",fig.show="hold",fig.align="center"}
