@@ -66,7 +66,7 @@ While reading this article, think and write down your ideas for the following qu
 
 4. What did the early "pioneers" of data visualization look like? How many women were there? How many people of color? 
 
-5. What innovation led to the rise of spreadsheets and the ability to generate tables and graphics automatically? Name one cost and benefit of this invention.  
+5. What innovation led to the rise of spreadsheets and the ability to generate tables and graphics automatically? Name one cost and benefit of this invention. <!-- Is this question still necessary, lots of ?s already -->
 
 ### Early Data Visualizations
 
@@ -81,7 +81,6 @@ Read the article below about Du Bois' work and pick your favorite infographic of
 
 <https://www.smithsonianmag.com/history/first-time-together-and-color-book-displays-web-du-bois-visionary-infographics-180970826/>
 
-While we have learned that visualizations can be informative and very useful, there is also a bad side to visualizations.
 
 ## New Frontiers for Data Visualization
 
@@ -124,10 +123,11 @@ As data visualization continues to grow as a field, experts set rules for what m
 
 Here's a link: <https://businessesgrow.com/2020/08/05/data-is-dangerous/>.
 
-> KEY LESSON TAKEAWAYS: Data visualization as we know it today is not a new phenomenon; 
-> it is the culmination and continuation of > years of work and artistry. We have also 
-> learned that while data visualization can be a very powerful tool, there are many 
-> instances of misuse that we should be wary of.
+> KEY LESSON TAKEAWAYS: Data visualization as we know it today is not a new phenomenon; it is the culmination and continuation of years of work and artistry. 
+> Data visualization seems to be in the domain of programming, coding, and online visuals these days, but we can expand that defintion further. 
+> Physical data visualizations have been around since some of the earliest days of human civilization up until the current day. They provide another dimension and way we can explore data.
+> We have also learned that while data visualization can be a very powerful tool, there are many instances of misuse that we should be wary of.
+
 
 ***
 
@@ -180,11 +180,9 @@ Knowledge is never absolute; it is always situated in a social, cultural, histor
 <!-- maybe a homework assignment could be to create a data biography/user guide??? -->
 <!-- something like this: https://weallcount.com/2019/01/21/an-introduction-to-the-data-biography/ -->
 
-> KEY LESSON TAKEAWAYS: Numbers never speak for themselves. After all, data doesn't exist in a vaccum; it is created by many processes and therefore have an underlying context and narrative. In other words, all data you will encounter tells a story, and part of the art of data visualization is understanding that data context and telling the story. As statisticians and data scientists, part of your job as communicators (whether or not it involves a data visualization) is to always understand where your data comes from, what its context is, and how to accurately communicate those analyses.
-
 For "homework," please read the above article and make notes.
 
-> KEY LESSON TAKEAWAYS: Data visualization seems to be in the domain of programming, coding, and online visuals these days; but, we can expand that defintion further. Physical data visualizations have been around since some of the earliest days of human civilization up until the current day. They provide another dimension and way we can explore data.
+> KEY LESSON TAKEAWAYS: Numbers never speak for themselves. After all, data doesn't exist in a vaccum; it is created by many processes and therefore have an underlying context and narrative. In other words, all data you will encounter tells a story, and part of the art of data visualization is understanding that data context and telling the story. As statisticians and data scientists, part of your job as communicators (whether or not it involves a data visualization) is to always understand where your data comes from, what its context is, and how to accurately communicate those analyses.
 
 ***
 
