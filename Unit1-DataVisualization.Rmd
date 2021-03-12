@@ -66,8 +66,6 @@ While reading this article, think and write down your ideas for the following qu
 
 4. What did the early "pioneers" of data visualization look like? How many women were there? How many people of color? 
 
-5. What innovation led to the rise of spreadsheets and the ability to generate tables and graphics automatically? Name one cost and benefit of this invention. <!-- Is this question still necessary, lots of ?s already -->
-
 ### Early Data Visualizations
 
 While the field of data visualization now may seem very technical and built for the modern era, the above examples show that that is not necessarily the case. In fact, these early visualizations relied entirely upon the ability of the artist to convey a compelling story rather than millions of observations. There are many historical figures who you may not associate with Statistics that have successfully created compelling infographics and visualizations. 
@@ -92,7 +90,7 @@ Here's a link: <http://dataphys.org/list/>.
 
 While reading the above article, walk through some questions below.
 
-1. Choose 3 visualizations from this list that appealed to you most. Why did they appeal to you? What sets these visualizations apart?
+1. Choose 2 visualizations from this list that appealed to you most. Why did they appeal to you? What sets these visualizations apart?
 
 2. What does it mean for a data visualization to be interactive? Find an example in the list of physical data visualizations of an interactive one. Explain how it is interactive and what might set it apart from other "static" visualizations.
 
@@ -137,7 +135,7 @@ Here's a link: <https://businessesgrow.com/2020/08/05/data-is-dangerous/>.
 
 <!-- Have a discussion here about the previous article that was homework (article about emotions) -->
 
-Here's the final sentence from the article: "Let the PR peeps do the "spinning" and data do the talking."
+Here's the final sentence from the article you read for homework last night: "Let the PR peeps do the "spinning" and data do the talking."
 
 Do you think this is a fair assessment?
 
@@ -163,24 +161,31 @@ When we take our data's accuracy for granted without understanding the context o
 
 Context for data matters, **especially** when you are producing data visualizations. The data visualization like the one from the 538 report seems to be objective and free of emotion. It seems to have a good data source as well. But what is sorely lacking and missing is context; what exactly are each of the many data points in the dataset? What exactly is 538 plotting on their graphs? And for the audience of the visualization, what exactly are they reading and looking at?
 
-
 Throughout your coursework, you will embark on many data-driven projects and encounter many projects and publications; always aim to understand the original context of the data that is used before you attempt to understand the analysis of that very data. Context is always needed in both data collection and analysis.
-
-Remember the article you read for homework? What about the idea that you, as an author and creator of a data visualization, should not tell your reader what to think, and instead provide "objective" analysis?
-
-1. You have a privilege and a responsibility to communicate both the data and the best interpretation of said data.
-2. By not providing more details and context of the data, your audience will tend to fill in the gaps with their own preconceptions and stereotypes.
-
-In this sense, emotion in a data visualization is not a means of persuasion or bias with regards to the audience. Rather, it is your **accurate** framing of the story at hand and your attempt at communicating some sort of analysis of the data.
 
 Knowledge is never absolute; it is always situated in a social, cultural, historical, and material context.
 
-<!-- How can we make this section more interactive for the students? -->
-<!-- need to find something for homework for this section, make it connect to the emotion section -->
-<!-- maybe a homework assignment could be to create a data biography/user guide??? -->
-<!-- something like this: https://weallcount.com/2019/01/21/an-introduction-to-the-data-biography/ -->
+## The Stories Behind Data
 
-For "homework," please read the above article and make notes.
+Here's another link: <https://www.gapminder.org/dollar-street>.
+
+With this link, explore the data however you like. Pleases learn the story of any one family you "meet" during your data exploration.
+
+Questions:
+
+1. 
+
+2. 
+
+3.
+
+**How do we situate our data in context? What can we do to remind ourselves that there is always a story behind the data we collect and analyze?**
+
+One way to start is by creating data biographies. These are essentialyl background informational pieces on the dataset at hand. It helps collect information on the dataset; information such as "Who is in this data/Who collected this data?", "Where is this data from/Where is this data stored?", and "Why does this data even exist?" are noted, among other things.
+
+For homework, please read this article on data biographies. Then, find a dataset online that interests you (you will be coming back to this dataset at a later date, so choose wisely!) and create a data biography for it. Be ready to share information about your dataset in advance of the next class section!
+
+Here's a link: <https://weallcount.com/2019/01/21/an-introduction-to-the-data-biography/>.
 
 > KEY LESSON TAKEAWAYS: Numbers never speak for themselves. After all, data doesn't exist in a vaccum; it is created by many processes and therefore have an underlying context and narrative. In other words, all data you will encounter tells a story, and part of the art of data visualization is understanding that data context and telling the story. As statisticians and data scientists, part of your job as communicators (whether or not it involves a data visualization) is to always understand where your data comes from, what its context is, and how to accurately communicate those analyses.
 
@@ -188,9 +193,9 @@ For "homework," please read the above article and make notes.
 
 # Lesson 3: Think Outside the Box
 
-What did you learn from the article for "homework"?
+Be ready to share some of your findings and your data biography!
 
-Please discuss with your group some of your key takeaways from the article!
+In addition, please discuss with your group some of your key takeaways from the article!
 
 ## The Power of Emotion
 
@@ -248,15 +253,17 @@ While reading the article above, walk through the following questions:
 
 Data visualization allows us to tell stories. Sometimes, those stories consist of numbers and numerical summaries of the data we have collected. Other times however, such as in this case, data visualization serves to prove a point by using emotion and connecting the data back to its real life context (by including interviews in this case).
 
-Here's a link: <https://www.microsoft.com/en-us/research/uploads/prod/2019/08/emotional.pdf>.
+What about the idea that you, as an author and creator of a data visualization, should not tell your reader what to think, and instead provide "objective" and emotionless analysis?
 
-Here's another link: <https://www.gapminder.org/dollar-street>.
+Food for thought:
+1. You have a privilege and a responsibility to communicate both the data and the best interpretation of said data.
+2. By not providing more details and context of the data, your audience will tend to fill in the gaps with their own preconceptions and stereotypes.
 
-For "homework," please read the above article in the first link and write a 200-word summary of the material. With the second link, explore the data however you like and come to the next class meeting, ready to tell the story of any one family you "meet."
+In this sense, emotion in a data visualization is not a means of persuasion or bias with regards to the audience. Rather, it is your **accurate** framing of the story at hand and your attempt at communicating some sort of analysis of the data.
 
-**THIS ASSIGNMENT CAN BE CHANGED. THE ALTERNATIVE IS BELOW**
+For homework, work with your partner/group to brainstorm and search for other "emotional" datasets. You need not create any initial data viz (although highly encouraged!), but please come ready to present on your dataset (write a data biography!) and any ideas you have on data vizzes you might be able to create from there.
 
-For "homework," work with your partner/group to brainstorm and search for other "emotional" datasets. You need not create any initial data viz (although highly encouraged!), but please come ready to present on your dataset and any ideas you have on data vizzes you might be able to create from there.
+<!--Here's a link: <https://www.microsoft.com/en-us/research/uploads/prod/2019/08/emotional.pdf>. -->
 
 > KEY LESSON TAKEAWAYS: We have been told that data is neutral, and that emotion has no place in a scientific field like statistics and data visualization. However, there is power in emotion and our ability to tell stories and communicate data with that emotion. We also see the power in learning the stories behind our data and the emotions that come from that.
 
@@ -268,7 +275,9 @@ For "homework," work with your partner/group to brainstorm and search for other 
 
 You've made it to the end of this unit. One more day!
 
-Today, we will be looking at applying your newfound skills and knowledge. After all, how else will you "learn by doing"?
+Today, we will be looking at applying your newfound skills and knowledge. Putting it all together will take using the ideas you have learned and considered and applying them to some real-world data. Using the data from Lesson 2, where you wrote a data biography, put together any data visualization that tells a story you're interested in. Discuss the context of the data and what type of story you're telling.
+
+<!-- the Cal Poly assignment below can be deleted if necessary  -->
 
 ![](pic_calpoly.jpg)
 
