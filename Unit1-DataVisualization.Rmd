@@ -46,9 +46,11 @@ Communication can take many forms: written reports, presentation slides, talks, 
 
 Today, we will focus on one form of statistical communication: **data visualization**
 
-```{r, echo=FALSE, fig.cap="Do your data visualizations have to look like this? Maybe not now, but you'll get there! [Image Credit](https://pixy.org/2927080/)",fig.show="hold",fig.align="center"}
+<center>
+```{r, echo=FALSE, fig.cap="[Image Credit](https://pixy.org/2927080/)",fig.show="hold",fig.align="center"}
 knitr::include_graphics("images/pic_dataviz.jpg")
 ```
+</center>
 
 <!-- I think we should talk about what type of visualization we want to highlight here! -->
 
@@ -94,9 +96,12 @@ Visit the website and carry out the following tasks:
 
 2. What does it mean for a data visualization to be interactive? Find an example of an interactive visualization from the list of physical data visualizations. Explain how it is interactive and what sets it apart from other "static" visualizations.
 
+<center>
 ```{r, echo=FALSE, fig.cap="An example you'll see of physical data visualization [Image 1 Credit](https://aviz.fr/phys)",fig.show="hold", fig.align='center'}
 knitr::include_graphics("images/pic_phys2.jpeg")
 ```
+</center>
+
 
 If you are interested in learning more about the possibilities of physical visualization, here is an article outlining what some researchers believe are the challenges and opportunities of physical visualizations: <https://hal.inria.fr/hal-01120152/document>.
 
